@@ -19,6 +19,6 @@ app.get('/learning',function(req,res){
 })
 
 
-app.listen(process.env.port, () => {
+app.listen(process.env.PORT, () => {
   console.log(`Example app listening on port ${port}`)
 })
