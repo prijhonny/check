@@ -1,0 +1,11 @@
+npm init
+create index.js
+go to package.json add start in script 
+npm install express
+hello world express code in index.js
+create some routes
+npm install dotenv for production
+add env commands in index.js
+
+
+//digital ocean azur aws heruko
